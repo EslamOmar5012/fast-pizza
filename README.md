@@ -39,7 +39,7 @@
 
 ## 🚀 Live Demo
 
-> 🔗 **[Live Demo](https://your-deployed-app-url.com)** _(Coming Soon)_
+> 🔗 **[Live Demo](https://fast-pizzaxeno.netlify.app)** _(Coming Soon)_
 
 ---
 
